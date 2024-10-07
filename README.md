@@ -215,3 +215,10 @@ CREATE TABLE `detalhevenda` (
 
 
 ```
+
+
+### modelo de entidade relacional
+
+#### diagrama do relacionamento casa oliveira
+
+<img src= "modelorelacional.png">
